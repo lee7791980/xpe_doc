@@ -1,10 +1,8 @@
 ## Introduction
     
-    Before starting, we assume that you have good knowledge of HTML5, CSS, JavaScript, and basic knowledge of XML.  
+Before starting, we assume that you have good knowledge of HTML5, CSS, JavaScript, and basic knowledge of XML.  
     
-    It is important to point out that the application architecture of XPE is significantly different from the traditional architecture. The XPE architecture adopts the modern
-        web architecture so all the UI logics are implemented in the browser ONLY powered by services on the server side. The communication between the UI and services is primarily
-        JSON over HTTP for maximum data compatibility.  This architecture is shown below:
+It is important to point out that the application architecture of XPE is significantly different from the traditional architecture. The XPE architecture adopts the modern web architecture so all the UI logics are implemented in the browser ONLY powered by services on the server side. The communication between the UI and services is primarily JSON over HTTP for maximum data compatibility.  This architecture is shown below:
     
     
 <img src="/images/primaryarch.png" alt="Primary architecture" width="600"/>
