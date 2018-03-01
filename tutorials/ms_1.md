@@ -8,7 +8,7 @@ With messaging server, one can build advanced applictions with complicated busin
 
 First, we add the following to sitemap.xml:
 
-{code}
+```xml
     <services>
           <webSocket path="ws" xpipe="http://www.xmlpipe.org/xpe/ms/http" name="ms"/>
           
@@ -20,13 +20,11 @@ First, we add the following to sitemap.xml:
         </service>
                   
     </services>
-
-{code}
-
+```
 
 Next, we edit the messaging model and save the following as hello.mml under src.ms:
 
-{code}
+```xml
 <ms domain="hello">
 
   <topic  name='http' type='http' >
@@ -40,11 +38,11 @@ Next, we edit the messaging model and save the following as hello.mml under src.
     
     
 </ms>
-{code}
+```
 
 We also add hello.js to src.ms:
 
-{code}
+```javascript
 /**
  * My module:
  *  description about what it does
@@ -68,5 +66,5 @@ We also add hello.js to src.ms:
     };
     
 }());
-{code}
+```
 
