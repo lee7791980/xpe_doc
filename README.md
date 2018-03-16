@@ -2,7 +2,7 @@
 
 ## Introduction
 
-XPE is an advanced application development platform based on extremely fast XPE technologies developed from the ground up. 
+XPE is an advanced application development platform based on extremely fast XPE technologies developed from the ground up.
 
 It offers unprecedent speed, scalability, and reliability so you can concentrate on building functionality of your web app.
 
@@ -16,5 +16,8 @@ XPE is built on the following technologies:
 
 ## Resources
 
-1. http://ide.softtouchit.com , the English version of the XPE IDE
-2. http://celer.cc , the Chinese version of the XPE IDE
+1. [http://ide.softtouchit.com](http://ide.softtouchit.com) , the English version of the XPE IDE
+2. [http://celer.cc](http://celer.cc) , the Chinese version of the XPE IDE
+
+
+
