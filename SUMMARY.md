@@ -5,5 +5,7 @@
     * [Tutorial](tutorials/tutorial_0.md)
 
 * [Quick Start](quick-start/README.md)
-    * [Example 1.1](quick-start/ex1.1.md)
-    * [Example 1.2](quick-start/ex1.2.md)
+
+* [Example](examples/README.md)
+    * [Example 1.1](examples/ex1.1.md)
+    * [Example 1.2](examples/ex1.2.md)
